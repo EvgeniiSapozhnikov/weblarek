@@ -216,3 +216,6 @@ export interface IOrder extends IBuyer {
 Методы класса:
 * `getProducts(): Promise<IProductsList>` - получает список товаров каталога с сервера;
 * `orderProducts(order: IOrder): Promise<IOrderResult>` - отправляет заказ на сервер.
+
+### Проверка работы
+Ссылка на репозиторий: https://github.com/EvgeniiSapozhnikov/weblarek 
